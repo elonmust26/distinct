@@ -1,0 +1,21 @@
+{
+  "name": "@elonmust1/distinct",
+  "version": "0.1.0",
+  "description": "An Agent Skill that fights AI homogenization — forces your AI to produce distinctive names and designs instead of generic defaults.",
+  "main": "SKILL.md",
+  "keywords": [
+    "ai",
+    "agent-skills",
+    "skill",
+    "claude",
+    "naming",
+    "design",
+    "originality",
+    "ai-slop"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elonmust26/distinct.git"
+  }
+}
